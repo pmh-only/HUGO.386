@@ -1,0 +1,20 @@
+[home]
+other = "홈"
+
+[posts]
+other = "Posts"
+
+[postslist]
+other = "업로드 된 글 목록"
+
+[categories]
+other = "카테고리"
+
+[tags]
+other = "태그"
+
+[backtohome]
+other = "돌아가기"
+
+[builton]
+other = "로 만듬"

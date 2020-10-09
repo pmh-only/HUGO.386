@@ -11,5 +11,5 @@
     | {{ . | markdownify }}
 {{end}}
 {{ if isset .Site.Params "showhugo" }}
-        | {{ i18n "builton" }} <a href="//gohugo.io" target="_blank">Hugo</a>
+        | <a href="//gohugo.io" target="_blank">Hugo</a>{{ i18n "builton" }}
 {{ end }}
